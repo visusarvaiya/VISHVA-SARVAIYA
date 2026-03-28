@@ -74,7 +74,10 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visusarvaiya&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 </p>
 
 ---
