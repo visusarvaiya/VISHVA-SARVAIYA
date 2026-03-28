@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm vishva sarvaiya</h1>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Full Stack Developer</h3>
 
-<!--
-**visusarvaiya/visusarvaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Full+Stack+Developer;Learning+Docker+%26+AWS;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Problem Solving**
+- 🌱 I’m currently learning **Docker & AWS**
+- 💬 Ask me about **React, Node.js, Spring Boot**
+- ⚡ Fun fact: * I believe consistency beats talent in coding 💯 *
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:visusarvaiya54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://instagram.com/vishvasarvaiya">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express">
+<img src="https://img.shields.io/badge/EJS-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb">
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
+
+<br>
+
+<img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify">
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Render-purple?style=for-the-badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma">
+<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva">
+
+</p>
+
+---
+
+
+
+
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkavad54&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Quote
+
+> "Code. Learn. Build. Repeat." 🚀
+
+---
+
+<p align="center">
+  ⭐ From <b>Vishva Sarvaiya</b>
+</p>
