@@ -74,7 +74,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkavad54&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visusarvaiya&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -82,6 +82,7 @@
 ## 🧠 Quote
 
 > "Code. Learn. Build. Repeat." 🚀
+> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
